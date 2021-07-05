@@ -1,18 +1,16 @@
 {
+    "manifest_version": 2,
     "name": "PronoteMask",
     "version": "2.0",
     "description": "Retire automatiquement vos informations personnelles sur votre espace Pronote.",
+    "permissions": ["activeTab"],
     "icons": {
         "128": "img/logo.png"
     },
     "content_scripts": [
         {
             "matches": ["*://*/pronote/eleve*"],
-            "js": ["mask.js"]
+            "js": ["script.js"]
         }
-    ],
-"host_permissions": [
-  "*://*/pronote/eleve*"
-],
-    "manifest_version": 3
+    ]
   }
