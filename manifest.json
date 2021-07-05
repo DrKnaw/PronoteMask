@@ -9,7 +9,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["*://*/pronote/eleve*"],
+            "matches": ["*://*/pronote/eleve*", "*://*/pronote/parent*"],
             "js": ["script.js"]
         }
     ]

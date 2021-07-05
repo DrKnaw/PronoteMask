@@ -2,8 +2,11 @@
 
 Permet d'éviter d'afficher en partage d'écran toutes ses infos :/
 
+
+
 Get it here :
 
-<a href="https://chrome.google.com/webstore/detail/pronotemask/piiihofopiamlaoeagfmoaejilfcffhj"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="PronoteMask sur le Chrome Webstore"></a>
-
+<a href="https://drknaw.eu/pronote_mask-latest.xpi"><img src="https://shrx.creepercreep.fr/TArU9/jEMaHIQu21.png/raw" alt="PronoteMask Download"></a>
+Démonstration ici: https://demo.index-education.net/pronote/eleve.html
+Demo here: https://demo.index-education.net/pronote/eleve.html
 ![image](https://user-images.githubusercontent.com/39345534/124477695-98a11280-dda4-11eb-9537-364ab499faae.png)
